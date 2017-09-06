@@ -1,0 +1,14 @@
+1503299144023	geckodriver	INFO	Listening on 127.0.0.1:50557
+1503299145793	mozprofile::profile	INFO	Using profile path C:\Users\Toshiba\AppData\Local\Temp\rust_mozprofile.SzhP8UU2jjxw
+1503299145809	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1503299145831	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50564
+1503299151766	Marionette	INFO	Listening on port 50564
+1503299155781	Marionette	INFO	startBrowser 572687ac-996e-485a-8c5f-f95bead03518
+1503299232085	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Toshiba\AppData\Local\Temp\rust_mozprofile.v5xfSTFAlVMb
+1503299186873	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1503299186889	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50592
+1503299188731	Marionette	INFO	Listening on port 50592
+1503299191653	Marionette	INFO	startBrowser f2b63088-5615-46d5-b3dc-8f38053185cc
+[Child 7832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
